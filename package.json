@@ -1,0 +1,16 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "stark industries",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.2.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
